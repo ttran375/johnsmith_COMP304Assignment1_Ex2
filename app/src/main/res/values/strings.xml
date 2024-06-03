@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">johnsmith_COMP304Assignment1_Ex2</string>
+    <string name="fragment1_text">Fragment one is selected</string>
+    <string name="fragment2_text">Fragment two is selected</string>
+    <string name="button1_text">Fragment1</string>
+    <string name="button2_text">Fragment2</string>
 </resources>
